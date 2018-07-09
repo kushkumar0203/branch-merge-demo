@@ -3,3 +3,9 @@ This is test2 under feature-xyz branch of branch-merge-demo repo
 new line added to test2 under feature-xyz branch of branch-merge-demo repo
 
 added a new line
+
+<<<<<<< HEAD
+three line
+=======
+third line made in Git Hub
+>>>>>>> 729c1a39f220dfecdeabb297aad07197825fea36

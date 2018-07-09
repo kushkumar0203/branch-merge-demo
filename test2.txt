@@ -1,3 +1,5 @@
 This is test2 under feature-xyz branch of branch-merge-demo repo
 
 new line added to test2 under feature-xyz branch of branch-merge-demo repo
+
+added a new line
